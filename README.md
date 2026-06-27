@@ -93,4 +93,4 @@ The objective was to answer business questions, explore customer behavior, analy
 
 **David Alake**
 
-Data Analyst | SQL | Excel | Power BI | Python
+Data Analyst | SQL | Excel | Python
