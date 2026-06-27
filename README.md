@@ -1,5 +1,3 @@
-# AnalystLab-week-3-task.
-
 # AnalystLab Africa | Week 3 SQL Analysis
 
 ## Project Overview
